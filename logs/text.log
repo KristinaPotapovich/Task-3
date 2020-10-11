@@ -1,0 +1,580 @@
+2020-10-11 19:51:30.595 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:51:30.599 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:51:30.600 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:51:30.600 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:51:50.600 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:51:50.600 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:51:50.602 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:51:50.602 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:51:50.602 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:52:10.604 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:52:10.605 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:52:10.606 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:52:10.607 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:52:10.608 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:52:30.610 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:52:30.610 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:52:30.610 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:52:30.611 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:52:30.611 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:52:50.612 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:52:50.613 [3 5600river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 3 5600river ferry was loaded
+2020-10-11 19:52:50.613 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:52:50.614 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:52:50.614 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:53:10.616 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:53:10.617 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:53:10.618 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:53:10.619 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:53:10.621 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:53:30.623 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:53:30.623 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:53:30.623 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:53:30.624 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:53:30.624 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:53:50.625 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:53:50.625 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:53:50.625 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:53:50.625 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:53:50.626 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:54:10.627 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:54:10.627 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:54:10.627 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:54:10.627 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:54:10.628 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:54:30.629 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:54:30.629 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:54:30.629 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:54:30.629 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:54:30.630 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:54:50.631 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:54:50.631 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:54:50.631 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:54:50.635 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:54:50.636 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:55:10.637 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:55:10.637 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:55:10.637 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:55:10.637 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:55:10.638 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:55:30.638 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:55:30.638 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:55:30.638 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:55:30.639 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:55:30.639 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:55:50.640 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:55:50.640 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:55:50.640 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:55:50.640 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:55:50.641 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:56:10.641 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:56:10.641 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:56:10.641 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:56:10.642 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:56:10.642 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:56:30.644 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:56:30.644 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:56:30.645 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:56:30.645 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:56:30.645 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:56:50.646 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:56:50.646 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:56:50.646 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:56:50.646 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:56:50.647 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:57:10.649 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:57:10.649 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:57:10.649 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:57:10.649 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:57:10.649 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:57:30.652 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:57:30.652 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:57:30.652 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:57:30.652 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:57:30.652 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 19:57:50.652 [FreightCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar called on the way
+2020-10-11 19:57:50.652 [2 3400river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400river ferry was loaded
+2020-10-11 19:57:50.652 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 19:57:50.653 [PassengerCar called on the wayain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar called on the way
+2020-10-11 19:57:50.653 [5 9000river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000river ferry was loaded
+2020-10-11 20:00:15.132 [2 3400 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400 river ferry was loaded
+2020-10-11 20:00:15.135 [5 9000 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000 river ferry was loaded
+2020-10-11 20:00:35.138 [3 5600 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 3 5600 river ferry was loaded
+2020-10-11 20:00:35.138 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 20:00:35.139 [5 9000 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000 river ferry was loaded
+2020-10-11 20:00:55.139 [2 3400 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 2 3400 river ferry was loaded
+2020-10-11 20:00:55.139 [River ferry is fullain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full
+2020-10-11 20:00:55.140 [5 9000 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - 5 9000 river ferry was loaded
+2020-10-11 20:04:56.922 [Thread-1 2 3400 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-1 2 3400 river ferry was loaded
+2020-10-11 20:04:56.927 [Thread-35 4 6800 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-35 4 6800 river ferry was loaded
+2020-10-11 20:04:56.927 [Thread-4 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-4 River ferry is full and move to the unloading
+2020-10-11 20:05:16.929 [Thread-4 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-4 River ferry returns from unloading and starts to load cars
+2020-10-11 20:05:16.930 [Thread-4 3 5600 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-4 3 5600 river ferry was loaded
+2020-10-11 20:05:16.931 [Thread-2 6 11200 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-2 6 11200 river ferry was loaded
+2020-10-11 20:05:16.931 [Thread-3 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 River ferry is full and move to the unloading
+2020-10-11 20:05:36.933 [Thread-3 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 River ferry returns from unloading and starts to load cars
+2020-10-11 20:05:36.934 [Thread-3 2 3400 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 2 3400 river ferry was loaded
+2020-10-11 20:05:36.935 [Thread-5 4 6800 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-5 4 6800 river ferry was loaded
+2020-10-11 20:05:36.936 [Thread-6 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-6 River ferry is full and move to the unloading
+2020-10-11 20:05:56.938 [Thread-6 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-6 River ferry returns from unloading and starts to load cars
+2020-10-11 20:05:56.938 [Thread-6 3 5600 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-6 3 5600 river ferry was loaded
+2020-10-11 20:05:56.938 [Thread-7 5 9000 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-7 5 9000 river ferry was loaded
+2020-10-11 20:05:56.939 [Thread-8 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-8 River ferry is full and move to the unloading
+2020-10-11 20:06:16.940 [Thread-8 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-8 River ferry returns from unloading and starts to load cars
+2020-10-11 20:06:16.940 [Thread-8 3 5600 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-8 3 5600 river ferry was loaded
+2020-10-11 20:06:16.940 [Thread-9 5 9000 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-9 5 9000 river ferry was loaded
+2020-10-11 20:06:16.941 [Thread-10 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-10 River ferry is full and move to the unloading
+2020-10-11 20:06:36.942 [Thread-10 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-10 River ferry returns from unloading and starts to load cars
+2020-10-11 20:06:36.942 [Thread-10 3 5600 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-10 3 5600 river ferry was loaded
+2020-10-11 20:06:36.942 [Thread-11 5 9000 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-11 5 9000 river ferry was loaded
+2020-10-11 20:06:36.943 [Thread-12 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-12 River ferry is full and move to the unloading
+2020-10-11 20:06:54.158 [Thread-1 by.epam.thirdtask.entity.impl.FreightCar 2 3400 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-1 by.epam.thirdtask.entity.impl.FreightCar 2 3400 river ferry was loaded
+2020-10-11 20:06:54.161 [Thread-4 by.epam.thirdtask.entity.impl.PassengerCar 5 9000 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-4 by.epam.thirdtask.entity.impl.PassengerCar 5 9000 river ferry was loaded
+2020-10-11 20:06:54.162 [Thread-3 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 River ferry is full and move to the unloading
+2020-10-11 20:07:14.164 [Thread-3 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 River ferry returns from unloading and starts to load cars
+2020-10-11 20:07:14.165 [Thread-3 by.epam.thirdtask.entity.impl.FreightCar 2 3400 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 by.epam.thirdtask.entity.impl.FreightCar 2 3400 river ferry was loaded
+2020-10-11 20:07:14.166 [Thread-2 by.epam.thirdtask.entity.impl.PassengerCar 5 9000 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-2 by.epam.thirdtask.entity.impl.PassengerCar 5 9000 river ferry was loaded
+2020-10-11 20:07:14.168 [Thread-5 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-5 River ferry is full and move to the unloading
+2020-10-11 20:07:34.169 [Thread-5 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-5 River ferry returns from unloading and starts to load cars
+2020-10-11 20:07:34.170 [Thread-5 by.epam.thirdtask.entity.impl.FreightCar 2 3400 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-5 by.epam.thirdtask.entity.impl.FreightCar 2 3400 river ferry was loaded
+2020-10-11 20:07:34.170 [Thread-6 by.epam.thirdtask.entity.impl.PassengerCar 5 9000 river ferry was loadedain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-6 by.epam.thirdtask.entity.impl.PassengerCar 5 9000 river ferry was loaded
+2020-10-11 20:07:34.172 [Thread-7 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-7 River ferry is full and move to the unloading
+2020-10-11 20:07:46.641 [Thread-4 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-4 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferry
+2020-10-11 20:07:46.646 [Thread-2 by.epam.thirdtask.entity.impl.PassengerCar 6 11200 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-2 by.epam.thirdtask.entity.impl.PassengerCar 6 11200 was loaded on the river ferry
+2020-10-11 20:07:46.646 [Thread-3 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 River ferry is full and move to the unloading
+2020-10-11 20:08:06.648 [Thread-3 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 River ferry returns from unloading and starts to load cars
+2020-10-11 20:08:06.648 [Thread-3 by.epam.thirdtask.entity.impl.FreightCar 2 3400 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 by.epam.thirdtask.entity.impl.FreightCar 2 3400 was loaded on the river ferry
+2020-10-11 20:08:06.648 [Thread-1 by.epam.thirdtask.entity.impl.FreightCar 4 6800 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-1 by.epam.thirdtask.entity.impl.FreightCar 4 6800 was loaded on the river ferry
+2020-10-11 20:08:06.649 [Thread-5 by.epam.thirdtask.entity.impl.FreightCar 6 10200 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-5 by.epam.thirdtask.entity.impl.FreightCar 6 10200 was loaded on the river ferry
+2020-10-11 20:08:06.649 [Thread-6 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-6 River ferry is full and move to the unloading
+2020-10-11 20:08:26.651 [Thread-6 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-6 River ferry returns from unloading and starts to load cars
+2020-10-11 20:08:26.651 [Thread-6 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-6 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferry
+2020-10-11 20:08:26.651 [Thread-7 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-7 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferry
+2020-10-11 20:08:26.651 [Thread-8 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-8 River ferry is full and move to the unloading
+2020-10-11 20:08:46.653 [Thread-8 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-8 River ferry returns from unloading and starts to load cars
+2020-10-11 20:08:46.653 [Thread-8 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-8 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferry
+2020-10-11 20:08:46.653 [Thread-9 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-9 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferry
+2020-10-11 20:08:46.654 [Thread-10 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-10 River ferry is full and move to the unloading
+2020-10-11 20:09:06.654 [Thread-10 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-10 River ferry returns from unloading and starts to load cars
+2020-10-11 20:09:06.654 [Thread-10 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-10 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferry
+2020-10-11 20:09:06.655 [Thread-11 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-11 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferry
+2020-10-11 20:09:06.656 [Thread-12 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-12 River ferry is full and move to the unloading
+2020-10-11 20:09:26.658 [Thread-12 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-12 River ferry returns from unloading and starts to load cars
+2020-10-11 20:09:26.658 [Thread-12 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-12 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferry
+2020-10-11 20:09:26.658 [Thread-13 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-13 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferry
+2020-10-11 20:09:26.658 [Thread-14 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-14 River ferry is full and move to the unloading
+2020-10-11 20:09:46.659 [Thread-14 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-14 River ferry returns from unloading and starts to load cars
+2020-10-11 20:09:46.659 [Thread-14 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-14 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferry
+2020-10-11 20:09:46.659 [Thread-15 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-15 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferry
+2020-10-11 20:09:46.660 [Thread-16 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-16 River ferry is full and move to the unloading
+2020-10-11 20:10:06.661 [Thread-16 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-16 River ferry returns from unloading and starts to load cars
+2020-10-11 20:10:06.661 [Thread-16 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-16 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferry
+2020-10-11 20:10:06.662 [Thread-17 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-17 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferry
+2020-10-11 20:10:06.663 [Thread-18 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-18 River ferry is full and move to the unloading
+2020-10-11 20:10:26.664 [Thread-18 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-18 River ferry returns from unloading and starts to load cars
+2020-10-11 20:10:26.664 [Thread-18 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-18 by.epam.thirdtask.entity.impl.PassengerCar 3 5600 was loaded on the river ferry
+2020-10-11 20:10:26.664 [Thread-19 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferryain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-19 by.epam.thirdtask.entity.impl.FreightCar 5 9000 was loaded on the river ferry
+2020-10-11 20:10:26.665 [Thread-20 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-20 River ferry is full and move to the unloading
+2020-10-11 20:10:42.659 [Thread-1 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-1 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight3400/12000
+2020-10-11 20:10:42.663 [Thread-4 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-4 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight9000/12000
+2020-10-11 20:10:42.664 [Thread-3 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 River ferry is full and move to the unloading
+2020-10-11 20:10:54.063 [Thread-1 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-1 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:10:54.067 [Thread-37 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-37 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000
+2020-10-11 20:10:54.067 [Thread-3 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 6/60 Weight: 10200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-3 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 6/60 Weight: 10200/12000
+2020-10-11 20:10:54.067 [Thread-4 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-4 River ferry is full and move to the unloading
+2020-10-11 20:11:14.069 [Thread-4 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-4 River ferry returns from unloading and starts to load cars
+2020-10-11 20:11:14.069 [Thread-4 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-4 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:11:14.069 [Thread-2 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-2 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000
+2020-10-11 20:11:14.070 [Thread-5 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-5 River ferry is full and move to the unloading
+2020-10-11 20:11:34.071 [Thread-5 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-5 River ferry returns from unloading and starts to load cars
+2020-10-11 20:11:34.071 [Thread-5 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-5 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:11:34.071 [Thread-6 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-6 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:11:34.072 [Thread-7 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-7 River ferry is full and move to the unloading
+2020-10-11 20:11:54.072 [Thread-7 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-7 River ferry returns from unloading and starts to load cars
+2020-10-11 20:11:54.072 [Thread-7 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-7 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:11:54.072 [Thread-8 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-8 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:11:54.073 [Thread-9 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-9 River ferry is full and move to the unloading
+2020-10-11 20:12:14.074 [Thread-9 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-9 River ferry returns from unloading and starts to load cars
+2020-10-11 20:12:14.074 [Thread-9 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-9 by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:12:14.074 [Thread-10 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-10 by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:12:14.075 [Thread-11 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-11 River ferry is full and move to the unloading
+2020-10-11 20:12:27.227 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:12:27.230 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:12:27.231 [Thread-2 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-2 River ferry is full and move to the unloading
+2020-10-11 20:12:47.232 [Thread-2 River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-2 River ferry returns from unloading and starts to load cars
+2020-10-11 20:12:47.232 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:12:47.232 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:12:47.233 [Thread-5 River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - Thread-5 River ferry is full and move to the unloading
+2020-10-11 20:13:00.584 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:13:00.588 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:13:00.588 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:13:20.590 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:13:20.590 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:13:20.591 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:13:20.591 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:13:40.593 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:13:40.593 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:13:40.593 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:13:40.594 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:14:00.596 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:14:00.597 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:14:00.598 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:14:00.599 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:14:20.601 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:14:20.602 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:14:20.603 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:14:20.604 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:14:40.607 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:14:40.608 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:14:40.609 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:14:40.610 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:15:00.613 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:15:00.613 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:15:00.613 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:15:00.613 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:15:20.614 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:15:20.614 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:15:20.615 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:15:20.615 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.922 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.922 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.922 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.924 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.922 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.931 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.931 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:15:23.923 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.930 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.932 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000
+2020-10-11 20:15:23.932 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.932 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.932 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.924 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.932 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.922 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.932 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:15:23.932 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.925 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.922 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.932 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.933 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.933 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.933 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.934 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.934 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.934 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.935 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.935 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.935 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.936 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:23.936 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:43.933 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:15:43.933 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:43.933 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:15:43.933 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:43.934 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:43.934 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000
+2020-10-11 20:15:43.934 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:15:43.934 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:16:03.935 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:16:03.936 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:16:03.936 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:16:03.937 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:16:03.937 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:16:03.938 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:16:03.938 [RUNNABLEain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE
+2020-10-11 20:16:03.938 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:16:21.516 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:16:21.519 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000
+2020-10-11 20:16:21.520 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:16:41.522 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:16:41.522 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:16:41.522 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000
+2020-10-11 20:16:41.523 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:17:01.524 [RUNNABLE River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry returns from unloading and starts to load cars
+2020-10-11 20:17:01.525 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:17:01.526 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:17:01.527 [RUNNABLE River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE River ferry is full and move to the unloading
+2020-10-11 20:17:05.149 [RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:17:05.152 [RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - RUNNABLE by.epam.thirdtask.entity.impl.PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:17:05.153 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:17:26.289 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:17:26.293 [FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000
+2020-10-11 20:17:26.293 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:17:46.296 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:17:46.296 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:17:46.296 [PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000
+2020-10-11 20:17:46.296 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:18:06.301 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:18:06.301 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:18:06.301 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:18:06.302 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:18:26.303 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:18:26.303 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:18:26.304 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:18:26.304 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:18:46.307 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:18:46.308 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:18:46.308 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:18:46.309 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:19:06.310 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:19:06.311 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:19:06.311 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:19:06.312 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:19:26.312 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:19:26.313 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:19:26.314 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:19:26.315 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:19:46.317 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:19:46.317 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:19:46.318 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:19:46.318 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:20:06.321 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:20:06.321 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:20:06.321 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:20:06.322 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:20:26.323 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:20:26.324 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:20:26.325 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:20:26.326 [River ferry is full and move to the unloadingain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry is full and move to the unloading
+2020-10-11 20:20:31.107 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:20:31.111 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:20:31.111 [ River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 34009000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 34009000/12000
+2020-10-11 20:20:51.112 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:20:51.112 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:20:51.112 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:20:51.113 [ River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 34009000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 34009000/12000
+2020-10-11 20:21:11.113 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:21:11.113 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:21:11.113 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:21:11.114 [ River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 34009000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 34009000/12000
+2020-10-11 20:21:25.383 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:21:25.387 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:21:25.387 [ River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 12400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 12400/12000
+2020-10-11 20:21:45.389 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:21:45.389 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:21:45.390 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:21:45.390 [ River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 12400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingCurrent state: Square: 25/60 Weight: 12400/12000
+2020-10-11 20:21:49.431 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:21:49.435 [FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000
+2020-10-11 20:21:49.435 [ River ferry is full and move to the unloadingCurrent state: Square: 7/60 Weight: 12400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingCurrent state: Square: 7/60 Weight: 12400/12000
+2020-10-11 20:22:09.438 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:22:09.438 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:22:09.439 [PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000
+2020-10-11 20:22:09.440 [ River ferry is full and move to the unloadingCurrent state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingCurrent state: Square: 8/60 Weight: 14600/12000
+2020-10-11 20:22:29.440 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:22:29.440 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:22:29.440 [PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:22:29.441 [ River ferry is full and move to the unloadingCurrent state: Square: 7/60 Weight: 12400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingCurrent state: Square: 7/60 Weight: 12400/12000
+2020-10-11 20:22:35.198 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:22:35.201 [FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000
+2020-10-11 20:22:35.201 [ River ferry is full and move to the unloadingPossible overload state: Square: 7/60 Weight: 12400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingPossible overload state: Square: 7/60 Weight: 12400/12000
+2020-10-11 20:22:55.203 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:22:55.203 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:22:55.203 [PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000
+2020-10-11 20:22:55.203 [ River ferry is full and move to the unloadingPossible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloadingPossible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 20:23:12.552 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:23:12.556 [PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000
+2020-10-11 20:23:12.557 [ River ferry is full and move to the unloading. Possible overload state: Square: 9/60 Weight: 16800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 9/60 Weight: 16800/12000
+2020-10-11 20:23:32.558 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:23:32.559 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:23:32.560 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:23:32.560 [ River ferry is full and move to the unloading. Possible overload state: Square: 7/60 Weight: 12400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 7/60 Weight: 12400/12000
+2020-10-11 20:23:52.562 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:23:52.562 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 20:23:52.562 [FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000
+2020-10-11 20:23:52.563 [ River ferry is full and move to the unloading. Possible overload state: Square: 7/60 Weight: 12400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 7/60 Weight: 12400/12000
+2020-10-11 20:24:12.564 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:24:12.564 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:24:12.565 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:24:12.565 [ River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 20:24:32.566 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:24:32.566 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:24:32.566 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:24:32.567 [ River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 20:24:52.568 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:24:52.568 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:24:52.568 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:24:52.569 [ River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 20:25:12.570 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:25:12.570 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:25:12.570 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:25:12.571 [ River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 20:25:32.573 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:25:32.573 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:25:32.573 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:25:32.573 [ River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 20:25:52.578 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:25:52.578 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:25:52.580 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:25:52.582 [ River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 20:26:12.584 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:26:12.584 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:26:12.584 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:26:12.585 [ River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 20:26:32.586 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 20:26:32.586 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 20:26:32.590 [FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 5/60 Weight: 9000/12000
+2020-10-11 20:26:32.590 [ River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 21:39:55.151 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.150 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.151 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.150 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.150 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.150 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.150 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.150 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.150 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.150 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.149 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.155 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.156 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.156 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.169 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 21:39:55.169 [car loading into river ferryain] INFO  epam.thirdtask.state.impl.CarLoadingState - car loading into river ferry
+2020-10-11 21:39:55.176 [FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000
+2020-10-11 21:39:55.176 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.176 [car loading into river ferryain] INFO  epam.thirdtask.state.impl.CarLoadingState - car loading into river ferry
+2020-10-11 21:39:55.176 [ River ferry is full and move to the unloading. Possible overload state: Square: 7/60 Weight: 12400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 7/60 Weight: 12400/12000
+2020-10-11 21:39:55.180 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.179 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.180 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.181 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.180 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.183 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.184 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.184 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.184 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.183 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.184 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.184 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.184 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.184 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.185 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:39:55.185 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:15.178 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 21:40:15.179 [PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 3/60 Weight: 5600/12000
+2020-10-11 21:40:15.180 [car loading into river ferryain] INFO  epam.thirdtask.state.impl.CarLoadingState - car loading into river ferry
+2020-10-11 21:40:15.180 [car unloading from river ferryain] INFO  epam.thirdtask.state.impl.CarStateUnloading - car unloading from river ferry
+2020-10-11 21:40:15.180 [car unloading from river ferryain] INFO  epam.thirdtask.state.impl.CarStateUnloading - car unloading from river ferry
+2020-10-11 21:40:15.180 [PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - PassengerCar was loaded on the river ferry. Square: 6/60 Weight: 11200/12000
+2020-10-11 21:40:15.181 [car loading into river ferryain] INFO  epam.thirdtask.state.impl.CarLoadingState - car loading into river ferry
+2020-10-11 21:40:15.181 [ River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 8/60 Weight: 14600/12000
+2020-10-11 21:40:35.180 [car unloading from river ferryain] INFO  epam.thirdtask.state.impl.CarStateUnloading - car unloading from river ferry
+2020-10-11 21:40:35.183 [car unloading from river ferryain] INFO  epam.thirdtask.state.impl.CarStateUnloading - car unloading from river ferry
+2020-10-11 21:40:35.183 [River ferry returns from unloading and starts to load carsain] INFO  by.epam.thirdtask.entity.RiverFerry - River ferry returns from unloading and starts to load cars
+2020-10-11 21:40:35.183 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 21:40:35.184 [car loading into river ferryain] INFO  epam.thirdtask.state.impl.CarLoadingState - car loading into river ferry
+2020-10-11 21:40:35.184 [FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000
+2020-10-11 21:40:35.185 [car loading into river ferryain] INFO  epam.thirdtask.state.impl.CarLoadingState - car loading into river ferry
+2020-10-11 21:40:35.185 [ River ferry is full and move to the unloading. Possible overload state: Square: 7/60 Weight: 12400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 7/60 Weight: 12400/12000
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.757 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.759 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.759 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.757 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.756 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.767 [FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 2/60 Weight: 3400/12000
+2020-10-11 21:40:49.767 [car loading into river ferryain] INFO  epam.thirdtask.state.impl.CarLoadingState - car loading into river ferry
+2020-10-11 21:40:49.771 [FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 4/60 Weight: 6800/12000
+2020-10-11 21:40:49.772 [car loading into river ferryain] INFO  epam.thirdtask.state.impl.CarLoadingState - car loading into river ferry
+2020-10-11 21:40:49.773 [FreightCar was loaded on the river ferry. Square: 6/60 Weight: 10200/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry - FreightCar was loaded on the river ferry. Square: 6/60 Weight: 10200/12000
+2020-10-11 21:40:49.774 [car loading into river ferryain] INFO  epam.thirdtask.state.impl.CarLoadingState - car loading into river ferry
+2020-10-11 21:40:49.775 [ River ferry is full and move to the unloading. Possible overload state: Square: 9/60 Weight: 15800/12000ain] INFO  by.epam.thirdtask.entity.RiverFerry -  River ferry is full and move to the unloading. Possible overload state: Square: 9/60 Weight: 15800/12000
+2020-10-11 21:40:49.783 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.773 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.784 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.784 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.784 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.784 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.785 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.785 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.785 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.785 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.785 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.785 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.786 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.786 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.786 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.786 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.777 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.786 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.786 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 21:40:49.786 [Car arriveain] INFO  epam.thirdtask.state.impl.CarArriveState - Car arrive
+2020-10-11 22:17:10.774 [file is missingain] ERROR by.epam.thirdtask.reader.DataReader - file is missing
+java.nio.file.NoSuchFileException: \testfile\data.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79) ~[?:1.8.0_231]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97) ~[?:1.8.0_231]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102) ~[?:1.8.0_231]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:230) ~[?:1.8.0_231]
+	at java.nio.file.Files.newByteChannel(Files.java:361) ~[?:1.8.0_231]
+	at java.nio.file.Files.newByteChannel(Files.java:407) ~[?:1.8.0_231]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:384) ~[?:1.8.0_231]
+	at java.nio.file.Files.newInputStream(Files.java:152) ~[?:1.8.0_231]
+	at java.nio.file.Files.newBufferedReader(Files.java:2784) ~[?:1.8.0_231]
+	at java.nio.file.Files.newBufferedReader(Files.java:2816) ~[?:1.8.0_231]
+	at by.epam.thirdtask.reader.DataReader.readData(DataReader.java:20) ~[classes/:?]
+	at test.by.epam.reader.DataReaderTest.trowShapeException(DataReaderTest.java:32) ~[test-classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_231]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_231]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_231]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_231]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134) ~[testng-7.1.0.jar:?]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597) ~[testng-7.1.0.jar:?]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.1.0.jar:?]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.1.0.jar:?]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816) ~[testng-7.1.0.jar:?]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.1.0.jar:?]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.1.0.jar:?]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.1.0.jar:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_231]
+	at org.testng.TestRunner.privateRun(TestRunner.java:766) [testng-7.1.0.jar:?]
+	at org.testng.TestRunner.run(TestRunner.java:587) [testng-7.1.0.jar:?]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384) [testng-7.1.0.jar:?]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378) [testng-7.1.0.jar:?]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337) [testng-7.1.0.jar:?]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:286) [testng-7.1.0.jar:?]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.1.0.jar:?]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.1.0.jar:?]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187) [testng-7.1.0.jar:?]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1109) [testng-7.1.0.jar:?]
+	at org.testng.TestNG.runSuites(TestNG.java:1039) [testng-7.1.0.jar:?]
+	at org.testng.TestNG.run(TestNG.java:1007) [testng-7.1.0.jar:?]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109) [testng-rt.jar:?]
